@@ -3,7 +3,6 @@ I'm learning how to use GitHub. Yayy!
 
 ## list of things to do today!
 1. class
-2. snack
 3. more class
 
 
